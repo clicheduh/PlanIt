@@ -1,4 +1,4 @@
-Projects Management System with authentication and cloud functions
+Project Management System with authentication and cloud functions
 
 1) Made using React, Redux, and Firebase.
 2) Firebase Firestore used as a real-time database 
