@@ -1,3 +1,11 @@
+Projects Management System with authentication and cloud functions
+
+1) Made using React, Redux, and Firebase.
+2) Firebase Firestore used as a real-time database 
+3) Firebase Cloud Functions used for grabbing notifications
+4) Firebase Authentication used for authentication
+________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
